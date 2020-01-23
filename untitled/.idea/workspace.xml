@@ -2,78 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="600a9237-2f3b-4a85-899d-2a6d5d8becb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../allTypeOfPractice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../allTypeOfPractice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../allTypeOfPractice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../allTypeOfPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator2/.idea/calculator2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditional" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/coditionalStatement.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/src/fcwef.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/src/hdcopew.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatement/src/hehd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coditionalStatementHomework" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../conditionalStatementHW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../conditionalStatementHW/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conditionalStatementHW/src/averageOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../conditionalStatementHW/src/averageOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conditionalStatementHomework" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conditionalStatementHomework1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaBasic" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaBasic1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../login/.idea/login.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../login/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../login/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/.idea/ststicVariable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/out/production/ststicVariable/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/out/production/ststicVariable/staticVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ststicVariable/src/staticVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/template-meta.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PersonalInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/src/practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled2/untitled2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled3/out/production/untitled3/VariableDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled3/src/VariableDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled3/untitled3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled4/out/production/untitled4/practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled4/src/practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled4/untitled4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variable/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variable/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variable/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variable/src/variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variable/variable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variableDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variableDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variableDemo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../variableDemo/src/VariablPractice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/conditionalStatementHW-HWDone/conditionalStatementHW-HWDone/src/cityName.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -158,6 +89,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579792445445" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1579795504253">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579795504253" />
     <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1579792680049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
