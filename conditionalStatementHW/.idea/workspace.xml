@@ -2,8 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52af6404-e820-4d37-9239-3b85b506391c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/conditionalStatementHW/cityName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditionalStatementHW/cityName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cityName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cityName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/conditionalStatementHW/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/META-INF/conditionalStatementHW.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/averageOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/eligibleForVote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/evenOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/grossSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/interChangeValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/numberAlphabetSymbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/printDayName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/resultBasedOnSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/salesCommission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/studentResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/upperToLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/vowelConsonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/out/production/conditionalStatementHW/zeroPositiveNegative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/averageOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditionalStatementHW/src/averageOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/eligibleForVote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/evenOddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/grossSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/interChangeValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/leapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/numberAlphabetSymbol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/printDayName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/resultBasedOnSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/salesCommission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/studentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/upperToLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/vowelConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionalStatementHW/src/zeroPositiveNegative.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +49,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HWDone" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -41,7 +78,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/conditionalStatementHW-HWDone/conditionalStatementHW-HWDone/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/conditionalStatementHW-HWDone (1)/conditionalStatementHW-HWDone/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -122,10 +159,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579701731534" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1579860179982">
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1579864284820">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579860179982" />
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579864284820" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1579864554877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579864554877" />
     <state x="479" y="233" key="Github.ShareDialog" timestamp="1579794483887">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -146,13 +187,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579859949152" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579862376730">
+    <state x="354" y="56" key="MultipleFileMergeDialog" timestamp="1579864172574">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579862376730" />
-    <state x="100" y="100" width="1080" height="480" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579862470769">
+    <state x="354" y="56" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1579864172574" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579864196190">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="100" y="100" width="1080" height="480" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579862470769" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579864196190" />
+    <state x="100" y="100" width="1080" height="480" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579864070060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="1080" height="480" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579864070060" />
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579864069732">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579864069732" />
+    <state x="367" y="53" key="git4idea.branch.GitSmartOperationDialog" timestamp="1579864165996">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="367" y="53" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1579864165996" />
   </component>
 </project>
