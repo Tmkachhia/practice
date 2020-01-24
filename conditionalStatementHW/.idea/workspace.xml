@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52af6404-e820-4d37-9239-3b85b506391c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/conditionalStatementHW/cityName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditionalStatementHW/cityName.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cityName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cityName.java" afterDir="false" />
     </list>
@@ -20,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -146,5 +146,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579859949152" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1579862376730">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579862376730" />
+    <state x="100" y="100" width="1080" height="480" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579862470769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="1080" height="480" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579862470769" />
   </component>
 </project>
