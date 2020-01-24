@@ -1,23 +1,22 @@
-public class Addition {
-  static Addition addition = new Addition();
-    int a = 5 ;
-    String name = "Tarjani";
-    static String  city = "London";
-
-    public void m1(){
-        System.out.println(a);
-        System.out.println(city);
-    }
-
-    public static void add(){
+public class Addition<addition> {
+  int a = 5 ;
+  static int c =  7;
+    static Addition addition = new Addition ();
+  public void addition1(int x , int y){
+      System.out.println( x + y);
+      System.out.println(c);}
+      public static void  addition2() {
+          System.out.println(addition.a);
+          System.out.println(c);
+      }
+    public static void main (String [] args){
+        addition.addition1(3,2);
+          System.out.println(addition.a+addition.c);
+        System.out.println(c);
         System.out.println(addition.a);
+        addition.addition1(4,5);
+      }
 
-    }
-    public static void main(String[] args){
+  }
 
-        System.out.println(addition.a);
-        System.out.println(addition.name);
-       addition.m1();;
-        add();
-    }
-}
+

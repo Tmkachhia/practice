@@ -45,9 +45,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.zeroPositiveNegative">
-    <configuration name="salesCommission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="salesCommission" />
+  <component name="RunManager" selected="Application.cityName">
+    <configuration name="cityName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cityName" />
       <module name="conditionalStatementHW" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cityName" />
         <item itemvalue="Application.zeroPositiveNegative" />
         <item itemvalue="Application.vowelConsonant" />
         <item itemvalue="Application.upperToLowerCase" />
         <item itemvalue="Application.studentResult" />
-        <item itemvalue="Application.salesCommission" />
       </list>
     </recent_temporary>
   </component>

@@ -26,6 +26,8 @@ public class cityName {
             case 'f' :
                 System.out.println("Fatehpur");
                 break;
+            default:
+                System.out.println("Entered Alphabet not recognised");
         }
     }
 }
